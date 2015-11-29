@@ -3,7 +3,7 @@ Department of Computer Science and Engineering
 B.Tech (CSE) - IV Year (VII Semester)
 CS405 /INTERNET PROGRAMMING LAB (July 15-Dec ’15)
 
-ONLINE MOVIE TICKET RESERVATION
+INTERIOR DESIGN GALLERY
 Project Members: Jaffer Ali, Karthick P
 Project Instructor: Dr. R Shriram
 
