@@ -4,7 +4,7 @@ B.Tech (CSE) - IV Year (VII Semester)
 CS405 /INTERNET PROGRAMMING LAB (July 15-Dec ’15)
 
 ONLINE MOVIE TICKET RESERVATION
-Project Members: Jaffer Ali, Karthic P
+Project Members: Jaffer Ali, Karthick P
 Project Instructor: Dr. R Shriram
 
 THIS WEBSITE BRING U TO THE HEAVEN INTERIOR DESIGN.
